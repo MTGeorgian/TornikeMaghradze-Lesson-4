@@ -1,0 +1,197 @@
+ /* fonts start */
+ .header-font{
+ 	font-family: 'MG Glaho Drunk';
+ }
+ .index-section-h-font{
+ 	font-family: 'Zen Tokyo Zoo', cursive;
+ 	font-weight: 500;
+ 	letter-spacing: 2px;
+ }
+ .index-div-p-font{
+ 	font-family: 'Bebas Neue';
+ 	font-style: italic;
+ 	/*text-transform: lowercase;*/
+ }
+ .news-section-p-font{
+ 	font-family: "KA_LORTKIPANIDZE", sans-serif;
+ 	font-weight: 500;
+ }
+ /* fonts end */
+ /* header start */
+.logo{
+	display: inline-block;
+	width: 100.18px;
+	height: 30.57px;
+	margin-top: 30px;
+	margin-left:  30px;
+	margin-right: 49.8px;
+	vertical-align: middle;
+}
+.navi{
+	display: inline-block;
+	margin-top: 30.8px;
+	vertical-align: middle;
+	font-size: 22px;
+}
+.nav-li{
+	display: inline-block;
+	color: #3D58A6;
+}
+.li-red{
+	color: #EE4036;
+}
+/* header end */
+/* index section start */
+.img-container{
+	width: 1170px;
+	margin: 70px auto;
+}
+.second-container{
+	width: 1170px;
+	margin: 0 auto 30px;
+}
+.index-div-left-block, 
+.index-div-right-block{
+	display: inline-block;
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+}
+.index-div-p{
+	display: inline-block;
+	width: 355px;
+	height: 143px;
+	font-size: 20px;
+	vertical-align: top;
+	padding-top: 5px;
+	padding-right: 15px;
+}
+.index-div-left-block-margin{
+	/*margin-left: 98px;*/
+	margin-top: 30px;
+}
+.index-div-right-block-margin{
+	margin-top: 30px;
+	margin-left: 26px;
+}
+.index-div-img-left{
+	vertical-align: middle;
+	padding: 0px 61px 42px 39px;
+}
+.index-div-img-right{
+	vertical-align: middle;
+	padding: 9px 53px 36px 63px;
+}
+.index-div-h3{
+	color: #3D58A6;
+	font-size: 22px;
+	padding: 11px 0px 12px 21px;
+}
+/* index section end */
+/* news section start */ 
+.section-div-date{
+	background-color: #3D58A6;
+	color: #fff;
+	width: 56px;
+	height: 56px;
+	margin-left: 30px;
+	margin-top: 40.4px;
+	padding: 10px;
+	font-size: 37px;
+}
+.section-h2{
+	font-size: 22px;
+	color: #3D58A6;
+	width: 63px;
+	height: 30px;
+	margin-left: 30px;
+}
+.section-h3{
+	margin-left: 30px;
+	margin-top: 17.5px;
+	font-size: 20px;
+}
+.section-img{
+	margin-left: 30px;
+	margin-top: 17.5px;
+	vertical-align: top;
+}
+.section-p{
+	display: inline-block;
+	width: 929px;
+	height: 360;
+	margin-left: 39px;
+	margin-top: 21px;
+	vertical-align: top;
+	font-size: 16px;
+}
+/* news section end */
+/* contact section start */
+.contact-container{
+	width: 1170px;
+	margin: auto;
+	padding: 30px 0;
+}
+.contact-section{
+	background-color: #E6E6E6;
+	margin: 30px 0;
+}
+.contact-div-left,
+.contact-div-right{
+	display: inline-block;
+	vertical-align: top;.
+}
+.contact-div-right{
+	margin-left: 30px;
+}
+/*.contact-div-left{
+	margin: 52px 64px 0px 97px;
+}
+.contact-div-right{
+	margin: 39px 96px 67px 0px;
+}*/
+.contact-div-h3{
+	color: #3D58A6;	
+	font-size: 20px;
+}
+.contact-div-list-span{
+	font-size: 16px;
+	color: #808080;
+}
+.contact-div-li{
+	padding-top: 5px;
+	letter-spacing: 1px;
+}
+/* contact section end */
+/* footer start */
+.footer-container{
+	width: 1170px;
+	margin: 0 auto 30px;
+}
+/*.index-fb-margin{
+	margin-right: 30px;
+}
+.index-yout-margin{
+	margin-left: 30px;
+}*/
+.divider{
+	width: 1px;
+	height: 27px;
+	background: #363E97;
+	display: inline-block;
+	margin: 0 30px;
+}
+.fb-margin{
+	margin-left: 30px;
+	/*margin-bottom: 30px;*/
+}
+/*.news-yout-margin{
+	margin-left: 30px;
+}*/
+/*.contact-fb-margin{
+	margin: 32px 36px 28px 48px;
+}*/
+/*.contact-yout-margin{
+	margin: 32px 0px 28px 30px;
+}*/
+/* footer end 
